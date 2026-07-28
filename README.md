@@ -1,12 +1,12 @@
-# 🚀 Clausio Frontend
+#  Clausio Frontend
 
-## 📖 About the Project
+##  About the Project
 
 **Clausio** is an AI-powered platform designed to simplify the creation of project documentation. It transforms client conversations, meetings, voice recordings, videos, and WhatsApp messages into well-structured and editable project specifications, helping development teams collect requirements more efficiently and improve collaboration with clients.
 
 ---
 
-## 👨‍💻 My Contribution
+## My Contribution
 
 This project is being developed as part of a collaborative team, and my responsibility was to develop the **frontend** of the platform.
 
@@ -26,7 +26,7 @@ My contribution included:
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 Working on this project allowed me to:
 
@@ -39,7 +39,7 @@ Working on this project allowed me to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - React
 - TypeScript
@@ -56,7 +56,7 @@ The frontend application is deployed on **Vercel**.
 
 ---
 
-## 📄 Project
+##  Project
 
 This repository showcases the frontend implementation of the Clausio platform, developed as part of a collaborative team project. My role focused on designing and building a modern, responsive, and scalable user interface. The project is actively under development, and the frontend will continue to evolve as new features and improvements are introduced.
 
