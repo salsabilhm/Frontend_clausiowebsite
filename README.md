@@ -52,7 +52,7 @@ Working on this project allowed me to:
 
 The frontend application is deployed on **Vercel**.
 
-> **Live Demo:** https://your-vercel-link.vercel.app
+> **Live Demo:**https://salsabilhm-clausio.vercel.app
 
 ---
 
